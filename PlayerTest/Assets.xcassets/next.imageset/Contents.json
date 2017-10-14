@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "icons8-ÐÑÑÑÑÐ°Ñ Ð¿ÐµÑÐµÐ¼Ð¾ÑÐºÐ° Ð²Ð¿ÐµÑÐµÐ´ Filled-100.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
