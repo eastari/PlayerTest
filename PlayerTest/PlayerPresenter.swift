@@ -84,7 +84,7 @@ class  PlayerPresenter: PlayerPresenterInput {
         } else {
             player?.play()
         }
-        isPlaying = isPlaying == false ? true : false
+        isPlaying = !isPlaying
         updateCurrentTime()
     }
     
